@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\William\\Documents\\WORK\\MoneyTransferApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "outputFile": "C:\\Users\\William\\Documents\\GitHub\\New-Lace\\MoneyTransferApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
             "map": [
                 {
                     "source": "C:\\Users\\William\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\969785df10ef3abb65cbb45c269a8229\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",

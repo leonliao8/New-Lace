@@ -8,6 +8,7 @@ import com.google.gson.reflect.TypeToken;
 import org.junit.Test;
 
 import java.io.IOException;
+import java.sql.SQLException;
 import java.text.DecimalFormat;
 import java.util.Currency;
 import java.util.HashMap;
@@ -104,5 +105,16 @@ public class ExampleUnitTest
         }
 
         //MyCustomAdapter myCustomAdapter = new MyCustomAdapter(map, getApplicationContext());
+    }
+
+    @Test
+    public void testConnect() throws SQLException
+    {
+        String host = "jdbc:mysql://91.132.103.123:3306/app?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC";
+        String user = "root";
+        String pass = "123123123App";
+        DBController controller = new DBController(host, user, pass);
+        Map map = controller.getData();
+        System.out.println(map);
     }
 }

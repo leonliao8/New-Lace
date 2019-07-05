@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\William\\Documents\\WORK\\MoneyTransferApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "outputFile": "C:\\Users\\William\\Documents\\GitHub\\New-Lace\\MoneyTransferApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
                     "source": "C:\\Users\\William\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-28.0.0.aar\\7c778a34fc4a2968eeb6b4ea8f9d4f40\\res\\values-v23\\values-v23.xml",

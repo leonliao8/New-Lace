@@ -2,6 +2,7 @@ package com.willsdev.moneytransferapp;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.widget.Button;
 
 public class SignUpActivity extends AppCompatActivity
 {
@@ -11,5 +12,7 @@ public class SignUpActivity extends AppCompatActivity
     {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_sign_up);
+
+        //Button signup = findViewById(R.id.btn_signup)
     }
 }

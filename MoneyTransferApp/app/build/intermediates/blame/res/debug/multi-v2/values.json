@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\William\\Documents\\WORK\\MoneyTransferApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\William\\Documents\\GitHub\\New-Lace\\MoneyTransferApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\William\\.gradle\\caches\\transforms-1\\files-1.1\\constraint-layout-1.1.3.aar\\33f9e8f4a4a48d2544e77c7e94009a66\\res\\values\\values.xml",
@@ -80,7 +80,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\William\\Documents\\WORK\\MoneyTransferApp\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\William\\Documents\\GitHub\\New-Lace\\MoneyTransferApp\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3",
                         "startColumns": "4",
@@ -118,23 +118,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\William\\Documents\\WORK\\MoneyTransferApp\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "1,4",
-                        "startColumns": "4,4",
-                        "startOffsets": "17,133",
-                        "endColumns": "53,69",
-                        "endOffsets": "66,198"
-                    },
-                    "to": {
-                        "startLines": "571,578",
-                        "startColumns": "4,4",
-                        "startOffsets": "34251,35066",
-                        "endColumns": "53,69",
-                        "endOffsets": "34300,35131"
-                    }
-                },
-                {
                     "source": "C:\\Users\\William\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-28.0.0.aar\\7c778a34fc4a2968eeb6b4ea8f9d4f40\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,35,36,37,38,45,47,50,7",
@@ -151,6 +134,23 @@
                         "endLines": "15,188,189,190,191,335,336,337,630,2019,2022,2025,3664",
                         "endColumns": "51,60,61,61,63,58,56,53,12,12,12,12,24",
                         "endOffsets": "781,9780,9842,9904,9968,19623,19680,19734,39189,129388,129514,129642,231472"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\William\\Documents\\GitHub\\New-Lace\\MoneyTransferApp\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "4,2,3,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "157,57,105,204",
+                        "endColumns": "45,46,50,39",
+                        "endOffsets": "198,99,151,239"
+                    },
+                    "to": {
+                        "startLines": "192,193,194,259",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "9973,10019,10066,14412",
+                        "endColumns": "45,46,50,39",
+                        "endOffsets": "10014,10061,10112,14447"
                     }
                 },
                 {
@@ -188,6 +188,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\William\\Documents\\GitHub\\New-Lace\\MoneyTransferApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "17,133",
+                        "endColumns": "53,69",
+                        "endOffsets": "66,198"
+                    },
+                    "to": {
+                        "startLines": "571,578",
+                        "startColumns": "4,4",
+                        "startOffsets": "34251,35066",
+                        "endColumns": "53,69",
+                        "endOffsets": "34300,35131"
+                    }
+                },
+                {
                     "source": "C:\\Users\\William\\.gradle\\caches\\transforms-1\\files-1.1\\coordinatorlayout-28.0.0.aar\\fb01907683ff8d243f9f090b104cb4c1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,102,3,13",
@@ -204,23 +221,6 @@
                         "endLines": "24,2934,3763,3852",
                         "endColumns": "60,12,24,24",
                         "endOffsets": "1257,191497,243848,249059"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\William\\Documents\\WORK\\MoneyTransferApp\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "4,2,3,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "157,57,105,204",
-                        "endColumns": "45,46,50,39",
-                        "endOffsets": "198,99,151,239"
-                    },
-                    "to": {
-                        "startLines": "192,193,194,259",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "9973,10019,10066,14412",
-                        "endColumns": "45,46,50,39",
-                        "endOffsets": "10014,10061,10112,14447"
                     }
                 }
             ]
