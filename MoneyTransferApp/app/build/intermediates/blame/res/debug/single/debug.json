@@ -1,23 +1,23 @@
 [
     {
-        "merged": "C:\\Users\\William\\Documents\\GitHub\\New-Lace\\MoneyTransferApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_design_password_eye.xml.flat",
-        "source": "C:\\Users\\William\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\969785df10ef3abb65cbb45c269a8229\\res\\drawable-v21\\design_password_eye.xml"
-    },
-    {
         "merged": "C:\\Users\\William\\Documents\\GitHub\\New-Lace\\MoneyTransferApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_design_ic_visibility_off.png.flat",
         "source": "C:\\Users\\William\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\969785df10ef3abb65cbb45c269a8229\\res\\drawable-xxxhdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\GitHub\\New-Lace\\MoneyTransferApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_design_password_eye.xml.flat",
+        "source": "C:\\Users\\William\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\969785df10ef3abb65cbb45c269a8229\\res\\drawable-v21\\design_password_eye.xml"
     },
     {
         "merged": "C:\\Users\\William\\Documents\\GitHub\\New-Lace\\MoneyTransferApp\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_chip_close_icon_tint.xml.flat",
         "source": "C:\\Users\\William\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\969785df10ef3abb65cbb45c269a8229\\res\\color\\mtrl_chip_close_icon_tint.xml"
     },
     {
-        "merged": "C:\\Users\\William\\Documents\\GitHub\\New-Lace\\MoneyTransferApp\\app\\build\\intermediates\\res\\merged\\debug\\color_design_tint_password_toggle.xml.flat",
-        "source": "C:\\Users\\William\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\969785df10ef3abb65cbb45c269a8229\\res\\color\\design_tint_password_toggle.xml"
-    },
-    {
         "merged": "C:\\Users\\William\\Documents\\GitHub\\New-Lace\\MoneyTransferApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
         "source": "C:\\Users\\William\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\64c4dab664fbee99b51add68d580dc70\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\GitHub\\New-Lace\\MoneyTransferApp\\app\\build\\intermediates\\res\\merged\\debug\\color_design_tint_password_toggle.xml.flat",
+        "source": "C:\\Users\\William\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\969785df10ef3abb65cbb45c269a8229\\res\\color\\design_tint_password_toggle.xml"
     },
     {
         "merged": "C:\\Users\\William\\Documents\\GitHub\\New-Lace\\MoneyTransferApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_wallet.xml.flat",
@@ -108,16 +108,16 @@
         "source": "C:\\Users\\William\\Documents\\GitHub\\New-Lace\\MoneyTransferApp\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\William\\Documents\\GitHub\\New-Lace\\MoneyTransferApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
-        "source": "C:\\Users\\William\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\8c0191b29ddb029f21325888e665e91b\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+        "merged": "C:\\Users\\William\\Documents\\GitHub\\New-Lace\\MoneyTransferApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\William\\Documents\\GitHub\\New-Lace\\MoneyTransferApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
         "merged": "C:\\Users\\William\\Documents\\GitHub\\New-Lace\\MoneyTransferApp\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_search_url_text.xml.flat",
         "source": "C:\\Users\\William\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\8c0191b29ddb029f21325888e665e91b\\res\\color\\abc_search_url_text.xml"
     },
     {
-        "merged": "C:\\Users\\William\\Documents\\GitHub\\New-Lace\\MoneyTransferApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\William\\Documents\\GitHub\\New-Lace\\MoneyTransferApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\William\\Documents\\GitHub\\New-Lace\\MoneyTransferApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\William\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\8c0191b29ddb029f21325888e665e91b\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
     },
     {
         "merged": "C:\\Users\\William\\Documents\\GitHub\\New-Lace\\MoneyTransferApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
@@ -268,12 +268,12 @@
         "source": "C:\\Users\\William\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\8c0191b29ddb029f21325888e665e91b\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "C:\\Users\\William\\Documents\\GitHub\\New-Lace\\MoneyTransferApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_f_thb.JPG.flat",
-        "source": "C:\\Users\\William\\Documents\\GitHub\\New-Lace\\MoneyTransferApp\\app\\src\\main\\res\\drawable-v24\\f_thb.JPG"
-    },
-    {
         "merged": "C:\\Users\\William\\Documents\\GitHub\\New-Lace\\MoneyTransferApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\William\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\8c0191b29ddb029f21325888e665e91b\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\GitHub\\New-Lace\\MoneyTransferApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_f_thb.JPG.flat",
+        "source": "C:\\Users\\William\\Documents\\GitHub\\New-Lace\\MoneyTransferApp\\app\\src\\main\\res\\drawable-v24\\f_thb.JPG"
     },
     {
         "merged": "C:\\Users\\William\\Documents\\GitHub\\New-Lace\\MoneyTransferApp\\app\\build\\intermediates\\res\\merged\\debug\\interpolator-v21_mtrl_fast_out_linear_in.xml.flat",
@@ -340,12 +340,12 @@
         "source": "C:\\Users\\William\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\8c0191b29ddb029f21325888e665e91b\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
-        "merged": "C:\\Users\\William\\Documents\\GitHub\\New-Lace\\MoneyTransferApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\William\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\8c0191b29ddb029f21325888e665e91b\\res\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
-    },
-    {
         "merged": "C:\\Users\\William\\Documents\\GitHub\\New-Lace\\MoneyTransferApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\William\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\8c0191b29ddb029f21325888e665e91b\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\GitHub\\New-Lace\\MoneyTransferApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\William\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\8c0191b29ddb029f21325888e665e91b\\res\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\William\\Documents\\GitHub\\New-Lace\\MoneyTransferApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
