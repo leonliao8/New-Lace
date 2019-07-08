@@ -1131,8 +1131,6 @@ id design_navigation_view
 id dimensions
 id direct
 id disableHome
-id editText4
-id editText5
 id edit_query
 id end
 id end_padder
@@ -1234,6 +1232,8 @@ id shortcut
 id showCustom
 id showHome
 id showTitle
+id sign_up_user_entry
+id signup_pass_entry
 id smallLabel
 id snackbar_action
 id snackbar_text

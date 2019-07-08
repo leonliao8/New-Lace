@@ -8,6 +8,8 @@ import com.google.gson.reflect.TypeToken;
 import org.junit.Test;
 
 import java.io.IOException;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.text.DecimalFormat;
 import java.util.Currency;
@@ -114,7 +116,28 @@ public class ExampleUnitTest
         String user = "root";
         String pass = "123123123App";
         DBController controller = new DBController(host, user, pass);
-        Map map = controller.getData();
-        System.out.println(map);
+
+//        int resultSet = controller.update("INSERT INTO accounts VALUES(0,1,11)");
+//        System.out.println(resultSet);
+//
+//        int resultSet = controller.update("INSERT INTO currencies VALUES(11,\"China\",\"CNY\")");
+//        System.out.println(resultSet);
+//        ResultSet rs = controller.getData("SELECT * from currencies");
+////        ResultSet resultSet = controller.getData("INSERT INTO accounts VALUES (100, 1, 1.75, \"2006-02-02 15:35:00\" )");
+//        while (rs.next()) {
+//            System.out.println(rs.getInt("currency_id"));
+//            System.out.println(rs.getString("name"));
+//            System.out.println(rs.getString("code"));
+//        }
+        //update AUD
+        int results = controller.update("UPDATE accounts set amount=50 where users_user_id=1 and currencies_currency_id=10");
+        // update CNY
+        controller.update("UPDATE accounts set amount=350 where users_user_id=1 and currencies_currency_id=11");
+        ResultSet rs = controller.getData("SELECT * from accounts");
+        while (rs.next()) {
+            System.out.println(rs.getString("amount"));
+            System.out.println(rs.getString("users_user_id"));
+            System.out.println(rs.getString("currencies_currency_id"));
+        }
     }
 }

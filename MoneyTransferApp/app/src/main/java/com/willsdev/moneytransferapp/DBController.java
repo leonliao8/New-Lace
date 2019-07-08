@@ -24,6 +24,12 @@ public class DBController {
         }
     }
 
+    /**
+     * Each row of ResultSet
+     * @param rs
+     * @return
+     * @throws SQLException
+     */
     public List resultSetToArrayList(ResultSet rs) throws SQLException{
         ResultSetMetaData md = rs.getMetaData();
         int columns = md.getColumnCount();
@@ -41,29 +47,42 @@ public class DBController {
         return list;
     }
 
-    public Map getData() throws SQLException {
-        String query = "select * from users";
-        ResultSet result;
-//        try {
-//            result = statement.executeQuery(query);
-//        } catch (SQLException sqlEx) {
-//            result = null;
-//            sqlEx.printStackTrace();
-//        }
-//
-//        data.put("users", resultSetToArrayList(result));
+    public int get_count(String query) {
+        ResultSet resultSet;
+        try {
+            resultSet = statement.executeQuery(query);
+            return resultSet.getMetaData().getColumnCount();
+        } catch (Exception e) {
+            return -1;
+        }
+    }
 
-        query = "select * from phrases where languages_language_id=5";
+    public ResultSet getData(String query) throws SQLException {
+        ResultSet result;
         try {
             result = statement.executeQuery(query);
         } catch (SQLException sqlEx) {
             result = null;
             sqlEx.printStackTrace();
         }
-        data.put("phrases",resultSetToArrayList(result));
-        return data;
+        return result;
+//        data.put("phrases",resultSetToArrayList(result));
+//        return data;
     }
-    public void update(){
-        //todo
+
+    /**
+     * execute database update
+     * @param query
+     * @return number of columns updated
+     */
+    public int update(String query){
+        int cols = 0;
+        try {
+            cols = statement.executeUpdate(query);
+        } catch (SQLException e)
+        {
+            e.printStackTrace();
+        }
+        return cols;
     }
 }
